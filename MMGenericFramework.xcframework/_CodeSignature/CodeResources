@@ -26,11 +26,11 @@
 		</data>
 		<key>ios-arm64/MMGenericFramework.framework/Info.plist</key>
 		<data>
-		xTCPzSXL+D4YoYMOb8tbiAVdkM0=
+		c5pnOrpTRX4H+M1YO4mG49NvjT0=
 		</data>
 		<key>ios-arm64/MMGenericFramework.framework/MMGenericFramework</key>
 		<data>
-		+9YM9Fugi1b0S0w8osD6KKexV1o=
+		1PgRNh6+rrOY/YmI235hLhxvDfM=
 		</data>
 		<key>ios-arm64/MMGenericFramework.framework/Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>ios-arm64/MMGenericFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		hcxJZp9Ab4OJh3oLsnIt9UmVUYg=
+		8bYo5R+pRQaGR9DBO/fDBA0mzpY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MMGenericFramework.framework/Headers/MMGenericFramework-Swift.h</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MMGenericFramework.framework/Info.plist</key>
 		<data>
-		Aby7Yp+2VqvpxPADJXdXwY+S+0w=
+		CAPcfIDJdUie8i+VktPN4NvZDLw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MMGenericFramework.framework/MMGenericFramework</key>
 		<data>
-		NHMV8OZ6M2w8SpPg1MP2O9EZdjs=
+		gexyIkWM3/vAbekCJ0mExcH5tI0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MMGenericFramework.framework/Modules/MMGenericFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MMGenericFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		M8GhKenfOIeNjD7ZgVEO9FNG6zY=
+		0UImOZGup8D5/tEbGWa21Zaha2A=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -186,22 +186,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xTCPzSXL+D4YoYMOb8tbiAVdkM0=
+			c5pnOrpTRX4H+M1YO4mG49NvjT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6x6/5faUufngRZ6Al2ILIzf6SYshefoFXiTD0Q5s8fQ=
+			n+VrME1lrGrhi+ChuJpyS01FUftr/NAZNBF8YPjci/o=
 			</data>
 		</dict>
 		<key>ios-arm64/MMGenericFramework.framework/MMGenericFramework</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+9YM9Fugi1b0S0w8osD6KKexV1o=
+			1PgRNh6+rrOY/YmI235hLhxvDfM=
 			</data>
 			<key>hash2</key>
 			<data>
-			3J13hmmfL5d7Jx2qpqqJDP2vmhq3rFlHryTI4Tpqs/Y=
+			nkdnDsLOd+sRLSlC+Y1jzvrJm/rBPMAfRLwnsK+IROI=
 			</data>
 		</dict>
 		<key>ios-arm64/MMGenericFramework.framework/Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -263,11 +263,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hcxJZp9Ab4OJh3oLsnIt9UmVUYg=
+			8bYo5R+pRQaGR9DBO/fDBA0mzpY=
 			</data>
 			<key>hash2</key>
 			<data>
-			9G0AHevD6whx+cNg7dgNwTuegzGIEc6KQ9UDHaC7axg=
+			prYA+r08wFRHJ8gCZhDFDwmvxPkLL4wgBF06d9JZ+og=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MMGenericFramework.framework/Headers/MMGenericFramework-Swift.h</key>
@@ -329,22 +329,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Aby7Yp+2VqvpxPADJXdXwY+S+0w=
+			CAPcfIDJdUie8i+VktPN4NvZDLw=
 			</data>
 			<key>hash2</key>
 			<data>
-			jh0ZktRiF5VRZAxSBJ5BiFk6nb6uX7QuGGATd/9+iwM=
+			xugqfsCp41atcxPLkC85dUxUAju/dvUWYwfkrbj8TQA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MMGenericFramework.framework/MMGenericFramework</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NHMV8OZ6M2w8SpPg1MP2O9EZdjs=
+			gexyIkWM3/vAbekCJ0mExcH5tI0=
 			</data>
 			<key>hash2</key>
 			<data>
-			DiKUb/UJcHqGYoWSvFq956LIjjXYqmfpLZ4SypFa+sU=
+			jmOUY8sNeGnm30KD6/nsSivTk9vHSS7QYrMtvzGXRZ0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MMGenericFramework.framework/Modules/MMGenericFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -450,11 +450,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			M8GhKenfOIeNjD7ZgVEO9FNG6zY=
+			0UImOZGup8D5/tEbGWa21Zaha2A=
 			</data>
 			<key>hash2</key>
 			<data>
-			X+KzZmhtG2gmJtUxJLqsUmmM0HJ3nRG72qSGJi6lsv4=
+			Xhp4j4LIPmGs5qfPMdZn8c3hsjjMCXo1xmJQy0aAfbk=
 			</data>
 		</dict>
 	</dict>
