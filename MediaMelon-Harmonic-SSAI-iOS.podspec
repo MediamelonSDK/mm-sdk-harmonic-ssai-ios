@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "MediaMelon-Harmonic-SSAI-iOS"
-  spec.version      = "2.2.3"
+  spec.version      = "2.2.4"
   spec.summary      = "The MediaMelon Player SDK Provides SmartSight Analytics and QBR SmartStreaming."
   spec.description  = "The MediaMelon Player SDK adds SmartSight Analytics and QBR SmartStreaming capability to any media player and is available for all ABR media players."
   spec.homepage     = "https://github.com/MediamelonSDK/mm-sdk-harmonic-ssai-ios"
