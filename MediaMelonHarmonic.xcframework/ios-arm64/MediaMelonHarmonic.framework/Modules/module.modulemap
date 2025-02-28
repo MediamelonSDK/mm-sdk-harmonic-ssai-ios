@@ -1,0 +1,6 @@
+framework module MediaMelonHarmonic {
+  umbrella header "MediaMelonHarmonic.h"
+  export *
+
+  module * { export * }
+}
